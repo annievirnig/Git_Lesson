@@ -1,3 +1,5 @@
 I totally forgot someting and now I'm adding it here. My colleagues who are not familiar with the git interface can use it as well. 
 
-Back on my computer I can then make additional modifications to code. 
+Back on my computer I can then make additional modifications to code.
+
+I'm also adding a new line on my computer. 
